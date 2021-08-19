@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graft"
+    app:startDestination="@id/openerFragment">
+
+    <fragment
+        android:id="@+id/countFragment"
+        android:name="com.kapirti.zikirmatik.view.CountFragment"
+        android:label="fragment_count"
+        tools:layout="@layout/fragment_count" />
+    <fragment
+        android:id="@+id/libraryFragment"
+        android:name="com.kapirti.zikirmatik.view.LibraryFragment"
+        android:label="fragment_library"
+        tools:layout="@layout/fragment_library" />
+    <fragment
+        android:id="@+id/openerFragment"
+        android:name="com.kapirti.zikirmatik.view.OpenerFragment"
+        android:label="fragment_opener"
+        tools:layout="@layout/fragment_opener" >
+        <action
+            android:id="@+id/action_openerFragment_to_countFragment"
+            app:destination="@id/countFragment" />
+    </fragment>
+</navigation>

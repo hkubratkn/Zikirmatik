@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zikirmatik</string>
+    <string name="lang">Dil</string>
+    <string name="hello">Merhaba</string>
+    <string name="share">Paylas</string>
+    <string name="share_text">Hey! Uygulamayı denemeye ne dersin</string>
+    <string name="share_to">Paylas:</string>
+    <string name="library">Kütüphane</string>
+    <string name="count">Zikir</string>
+    <string name="error">Hata!</string>
+</resources>
