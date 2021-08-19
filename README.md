@@ -15,7 +15,6 @@ Also when users havent internet than library part take document from room. is is
 ##Bottom Menu / Menu
 
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [<img src="https://edgeprim.com/assets/images/EdgePrim.svg" height="30em" align="center" alt="EdgePrim" title="EdgePrim"/>](https://edgeprim.com) 𝚊𝚗𝚍 [<img src="https://youthhax.com/images/yh.png" height="30em" align="center" alt="YouthHax" title="YouthHax"/>](https://youthhax.com)
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙷𝚘𝚗𝚘𝚞𝚛𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚠𝚒𝚝𝚑 𝙲𝚘-𝚘𝚙 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝚆𝚊𝚝𝚎𝚛𝚕𝚘𝚘, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸𝟻
